@@ -1,0 +1,29 @@
+PODS:
+  - Alamofire (4.9.1)
+  - SignalRSwift (2.0.3):
+    - Alamofire (~> 4.2)
+    - Starscream (~> 3.0)
+  - Starscream (3.1.1)
+  - SwiftyJSON (5.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - SignalRSwift
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - SignalRSwift
+    - Starscream
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  SignalRSwift: 6f30893680780d4f4e9981795478ea43f5b63f3e
+  Starscream: 4bb2f9942274833f7b4d296a55504dcfc7edb7b0
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+
+PODFILE CHECKSUM: 42b9c4b9e37756af3b4b89f0fafae63dec824ca3
+
+COCOAPODS: 1.8.4

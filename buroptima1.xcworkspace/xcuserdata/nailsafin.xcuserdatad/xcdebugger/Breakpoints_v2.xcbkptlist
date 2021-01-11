@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3A4D6175-3876-4AE0-B4A3-18EF67F609BC"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "52A2EECB-6194-478F-9821-F40BA70748C7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "buroptima1/Monitoring/Monitoring.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "Monitoring"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "52A2EECB-6194-478F-9821-F40BA70748C7 - ee77e9a65d17dd40"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "buroptima1.Monitoring.vm.getter : buroptima1.MonitoringVM"
+                  moduleName = "buroptima1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nailsafin/Documents/gbprojects/buroptima1UI/buroptima1/buroptima1/Monitoring/Monitoring.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "106">
+               </Location>
+               <Location
+                  uuid = "52A2EECB-6194-478F-9821-F40BA70748C7 - 3d468eacaa9b09f6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "buroptima1.Monitoring.$vm.getter : SwiftUI.EnvironmentObject&lt;buroptima1.MonitoringVM&gt;.Wrapper"
+                  moduleName = "buroptima1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nailsafin/Documents/gbprojects/buroptima1UI/buroptima1/buroptima1/Monitoring/Monitoring.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "106">
+               </Location>
+               <Location
+                  uuid = "52A2EECB-6194-478F-9821-F40BA70748C7 - ff18103c74364e53"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "buroptima1.Monitoring.init() -&gt; buroptima1.Monitoring"
+                  moduleName = "buroptima1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nailsafin/Documents/gbprojects/buroptima1UI/buroptima1/buroptima1/Monitoring/Monitoring.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "59">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "558C2716-02A7-4931-9583-59309F3442B8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "buroptima1/Monitoring/MonitoringVM.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "244"
+            endingLineNumber = "244"
+            landmarkName = "getIndicator(rowElement:geometry:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "496895B3-FC35-435C-AF49-FC21B24DF14E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "buroptima1/Monitoring/MonitoringVM.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "231"
+            endingLineNumber = "231"
+            landmarkName = "getIndicator(rowElement:geometry:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
