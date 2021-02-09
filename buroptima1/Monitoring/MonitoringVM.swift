@@ -229,7 +229,7 @@ final class MonitoringVM: ObservableObject {
                             let originMinFlag = CGPoint(x: (scale * CGFloat(lastMin)), y: height * CGFloat(c - lastY))
                             let originMaxFlag = CGPoint(x: (scale * CGFloat(min)) + 1, y: height * CGFloat(c - i))
                             tmpIndicatorArray.append((originMinFlag, originMaxFlag))
-   //                         emptyDataFlag = false
+                            emptyDataFlag = false
                         }
                         
                         let originMin = CGPoint(x: (scale * CGFloat(min)), y: height * CGFloat(c - i))
